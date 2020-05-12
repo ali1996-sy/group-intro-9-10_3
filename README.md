@@ -9,8 +9,9 @@ This is an introduction of Hack Your Future Class-9-10_3.
 4. Ibrahim
 
 ## Students
-| Name       |Location   | emoji  |
-| -----      | -------   | ----   |
+
+| Name       | Location   | emoji |
+| -----------|------------| ------|
 | [Mamé Azad](./mame.md)  |[Antwerpen](https://en.wikipedia.org/wiki/Antwerp) | :v:|
 | Oguz       | x          |       |
 | Ali        | x          |       |
