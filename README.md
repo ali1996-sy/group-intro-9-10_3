@@ -13,7 +13,7 @@ This is an introduction of Hack Your Future Class-9-10_3.
 
   Name       | Location   | emoji
  -----------|------------| ------
- [Mamé Azad](./mame.md)  |[Antwerpen](https://en.wikipedia.org/wiki/Antwerp) |:v:
+ [Mamé Azad](./mame.md)  |[Antwerpen](https://en.wikipedia.org/wiki/Antwerp) |:smiley:
  Oguz       | x          |
  Ali        | x          |
  Nadia      | x          |
