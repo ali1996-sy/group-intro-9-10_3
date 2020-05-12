@@ -18,4 +18,4 @@ This is an introduction of Hack Your Future Class-9-10_3.
  Ali        | x          |
  Nadia      | x          |
  Nour       | x          |
- Aleksandra | x          |
+ [Aleksandra](https://github.com/aleks2407/Info-about-me/blob/master/alex.md)| x          |
